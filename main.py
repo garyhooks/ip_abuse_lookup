@@ -9,6 +9,8 @@ import sys
 from colorama import Fore, Style
 
 def main():
+    
+    ## Register here to obtain your own API key: https://www.abuseipdb.com/login
     api_key = "PUT YOUR KEY HERE"
     url = 'https://api.abuseipdb.com/api/v2/check'
 
